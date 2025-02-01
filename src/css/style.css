@@ -1,0 +1,63 @@
+html {
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "Inter", serif;
+}
+
+body {
+    height: 100vh;
+    max-width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    width: auto;
+    height: auto;
+    padding: 35px 60px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.container .avatar-photo {
+    border-radius: 50%;
+    width: 34%;
+    padding-top: 5px;
+}
+
+.container .profile-info {
+    margin: 24px 0 18px 0;
+}
+
+.container .profile-info .user-name {
+    font-size: 25px;
+    font-weight: 600;
+    padding-bottom: 9px;
+}
+
+.container .profile-info .user-location {
+    font-weight: 700;
+    padding-bottom: 29px;
+}
+
+.container .profile-info .user-description {
+    letter-spacing: 0.1px;
+}
+
+.container .socials-links {
+    display: flex;
+    flex-direction: column;
+    align-self: auto;
+    position: relative;
+    left: -20px;
+}
+
+.container .socials-links .link-button {
+    font-weight: 700;
+    width: 117%;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 7px 0;
+}
+

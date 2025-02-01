@@ -1,0 +1,32 @@
+@media (max-width: 780px) {
+    .container {
+        padding: 30px 60px;
+    }
+
+    .container .avatar-photo {
+        width: 43%;
+    }  
+    
+    .container .profile-info {
+        margin: 24px 0 18px 0;
+    }
+}
+
+@media (max-width: 380px) {
+    .container {
+        padding: 15px 30px;
+    }
+
+    .container .avatar-photo {
+        width: 40%;
+    }  
+    
+    .container .socials-links {
+        left: -12px;
+    }
+    
+    .container .socials-links .link-button {
+        width: 110%;
+        padding: 15px;
+    }
+}

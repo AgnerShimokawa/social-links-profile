@@ -1,0 +1,29 @@
+html {
+    background-color: var(--primary-background-color);
+}
+
+.container {
+    background-color: var(--secondary-background-color);
+}
+
+.container .profile-info .user-name {
+    color: var(--primary-text-color);
+}
+
+.container .profile-info .user-location {
+    color: var(--secondary-text-color);
+}
+
+.container .profile-info .user-description {
+    color: var(--primary-text-color);
+}
+
+.container .socials-links .link-button {
+    background-color: var(--primary-button-color);
+    color: var(--primary-text-color);
+}
+
+.container .socials-links .link-button:hover {
+    background-color: var(--secondary-text-color);
+    color: var(--primary-button-color);
+}
