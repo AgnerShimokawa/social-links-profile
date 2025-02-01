@@ -39,8 +39,8 @@ Active State
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub page URL](https://github.com/AgnerShimokawa/social-links-profile)
+- Live Site URL: [Live site URL](https://agnershimokawa.github.io/social-links-profile/)
 
 ## My process
 
